@@ -1,0 +1,23 @@
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+Obj/
+Logs/
+MemoryCaptures/
+
+# VS Code / Rider / etc.
+.vscode/
+.idea/
+
+# User settings
+*.user
+*.csproj
+*.sln
+*.unityproj
+*.pidb
+*.suo
+
+# OS-specific
+.DS_Store
+Thumbs.db
